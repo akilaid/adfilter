@@ -8,5 +8,6 @@ A lightweight CoD4x plugin that censors advertisements, such as IP addresses and
 2. **Load the Plugin** by adding the following command to your server configuration:
    ```plaintext
    loadPlugin adfilter
-##License
+## License
+
 Licensed under the MIT License.
